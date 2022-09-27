@@ -1,5 +1,5 @@
 # fake_news_predectionUsingML
-In this project we are using linearregression model as the ML algorithm. 
+In this project we are using LogisticRegression model as the ML algorithm. 
 I trained the model with the data set provide by the kaggle website which has more than 20,000 entries.
 first I preprocesed the data by removing the stopwords then removed the number and other thing expect the word.
 later i stemmed the file and vectorized the entire data that is left so that i could be read by the ML model.
